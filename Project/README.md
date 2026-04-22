@@ -5,4 +5,3 @@ made by us.
 <br> <br> Languages used :- HTML5 , CSS , Javascript <br><br>
 Author :- Ansh Panwar
 <br>
-Co-Author :- Deepanshu Kapil
